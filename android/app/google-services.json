@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "370258069928",
+    "firebase_url": "https://messge-ea34f-default-rtdb.firebaseio.com",
+    "project_id": "messge-ea34f",
+    "storage_bucket": "messge-ea34f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370258069928:android:76d6e47d3d431bcd48359d",
+        "android_client_info": {
+          "package_name": "com.example.message"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChLVB0HYHlwfc8TV8OkBVxkRXEaIE96_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370258069928:android:dbf17aed4cb432c848359d",
+        "android_client_info": {
+          "package_name": "com.example.unibook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChLVB0HYHlwfc8TV8OkBVxkRXEaIE96_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
